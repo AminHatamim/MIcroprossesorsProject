@@ -6,6 +6,6 @@
 
 * **Amin Hatami**
 * **Ali Gohari** 
-* * **Ali Chavoshian**
+* **Ali Chavoshian**
 * **Hamidreza Parisai**
-* * **Sina Moraddar**
+* **Sina Moraddar**
