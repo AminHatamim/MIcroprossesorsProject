@@ -1,4 +1,4 @@
-# MicroprossesorsProject
+# Microprossesors Project
 
 ## Developers
 
