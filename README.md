@@ -1,8 +1,8 @@
-# MIcroprossesorsProject
+# MicroprossesorsProject
 
 ## Developers
 
-### Group no. 5
+### Group no. 4
 
 * **Amin Hatami**
 * **Ali Gohari** 
